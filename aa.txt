@@ -1,4 +1,12 @@
 tryal content
+<<<<<<< HEAD
 try more content as much as possible
 wearing shoes is must na on the chaddi
 add data to extend the line of master branch that show in git graph
+=======
+add content by bug fix branch
+add more content by bug fix branch 
+try more content as much as possible
+ad monotization
+20000 thousand
+>>>>>>> bug-fix
